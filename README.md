@@ -1,1 +1,1 @@
-to run sue streamlit app.py
+to run use the cmd streamlit app.py
