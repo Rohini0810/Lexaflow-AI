@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+pandas
+azure-storage-blob
+azure-ai-documentintelligence
+openai
+requests
+feedparser
